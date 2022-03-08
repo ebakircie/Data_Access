@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DbFirst
+namespace DbFirst.Model
 {
     using System;
     using System.Collections.Generic;
