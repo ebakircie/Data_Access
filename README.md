@@ -1,5 +1,5 @@
 ## - What is ORM?
-Object-Relational Mapping ([ORM](https://en.wikipedia.org/wiki/Object–relational_mapping)) is a programming technique which connects programming languages to databases like a bridge. ORM helps us to execute sql querries without typing them directly like exact sql querries. After ORM is  configured, with the help of OOP user can work with the database.
+Object-Relational Mapping ([ORM](https://en.wikipedia.org/wiki/Object–relational_mapping)) is a programming technique which connects programming languages to databases. ORM helps us to execute sql querries without typing them directly like exact sql querries. After ORM is  configured, with the help of OOP user can work with the database.
 
 ![what-is-orm](https://user-images.githubusercontent.com/77506856/157887631-c64c1583-097d-4a67-86c3-e4ba1bb22bb2.jpg)
 
