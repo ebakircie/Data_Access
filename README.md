@@ -12,11 +12,11 @@ Some benefits of using Entity Framework are;
 
 ![ef-core-dev-approaces](https://user-images.githubusercontent.com/77506856/157751501-06aab3ef-7179-4167-b638-534ac924a442.png)
 
-1.Database First;
+1.[Database First](https://github.com/ebakircie/Data_Access/tree/master/DbFirst);
 
 Database First allows you to reverse engineer a model from an existing database and let user use database as a class object.
 
-2.Code First
+2.[Code First](https://github.com/ebakircie/Data_Access/tree/master/CodeFirst)
 
 In this method after creating objects into classes, we migrate them to the database after we detirmine how they will act such as relations between tables, rules or conventions. This enables the developers to get more control through the code.
 
