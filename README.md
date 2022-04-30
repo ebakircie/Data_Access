@@ -18,7 +18,12 @@ Some benefits of using Entity Framework are;
 
 Database First allows you to reverse engineer a model from an existing database and let user use database as a class object.
 
+[Also some example querries](https://github.com/ebakircie/Data_Access/blob/master/DbFirst/Form1.cs)
+
+![Screenshot_16](https://user-images.githubusercontent.com/77506856/166109726-e7878cf3-b302-4938-b239-782a09878a42.png)
+
 2.[Code First](https://github.com/ebakircie/Data_Access/tree/master/CodeFirst)
 
 In this method after creating objects into classes, we migrate them to the database after we detirmine how they will act such as relations between tables, rules or conventions. This enables the developers to get more control through the code.
+
 
